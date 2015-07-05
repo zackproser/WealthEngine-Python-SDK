@@ -10,7 +10,7 @@ A Python module that abstracts interaction with the [WealthEngine API](http://de
 
 * Clone this repo into your project 
 * Import the SDK in your Python app / script
-* See example.py for calls and typical responses
+* See example.py for usage 
 
 ### Features ###
 
